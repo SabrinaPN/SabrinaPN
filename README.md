@@ -9,7 +9,7 @@
 - ☁️ Exploring Cloud & Data foundations
 - 🚀 Building my path in tech — one dataset at a time
 
-- ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-Data-blue)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
@@ -24,14 +24,12 @@
 - 🧮 Advanced SQL
 - ☁️ Data Engineering fundamentals
 
-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaPn&show_icons=true&theme=tokyonight)
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sabrinapaes02
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sabrinapaes02)
 
-)
-
-✨ "Data tells stories — I’m learning how to listen."
+✨ "Data tells stories — I'm learning how to listen."
