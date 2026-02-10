@@ -1,13 +1,30 @@
-<h1 align="center">
-  <span style="color:#3b82f6;">Hello</span>
-  <span style="color:#22c55e;">World</span>,
-  I'm
-  <span style="color:#f97316;">Sabrina</span> 👋
-</h1>
-
 <p align="center">
-  <span style="color:#a855f7;">Data & BI Enthusiast</span> • 
-  <span style="color:#06b6d4;">ADS Student</span>
+  <svg width="700" height="120" viewBox="0 0 700 120">
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#3b82f6">
+          <animate attributeName="stop-color" values="#3b82f6;#22c55e;#f97316;#a855f7;#3b82f6" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#22c55e">
+          <animate attributeName="stop-color" values="#22c55e;#f97316;#a855f7;#3b82f6;#22c55e" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <text x="50%" y="60%" text-anchor="middle"
+      font-size="42"
+      font-family="monospace"
+      fill="url(#grad)"
+      stroke="url(#grad)"
+      stroke-width="1">
+      Hello World, I'm Sabrina 👋
+      <animate attributeName="stroke-dasharray"
+        from="0,700"
+        to="700,0"
+        dur="3s"
+        repeatCount="1" />
+    </text>
+  </svg>
 </p>
 
 ### 👩‍💻 About Me
