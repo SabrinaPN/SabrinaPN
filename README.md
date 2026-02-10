@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#a855f7;">
-  Hello World, I'm Sabrina! 💜
+<h1 align="center">
+  🟣 Hello World, I'm Sabrina 💜
 </h1>
 
 ### 👩‍💻 About Me
