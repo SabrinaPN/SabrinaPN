@@ -1,7 +1,14 @@
-<h1 align="center">Hi, I'm Sabrina 👋</h1>
-<h3 align="center">Data & BI Enthusiast | ADS Student</h3>
+<h1 align="center">
+  <span style="color:#3b82f6;">Hello</span>
+  <span style="color:#22c55e;">World</span>,
+  I'm
+  <span style="color:#f97316;">Sabrina</span> 👋
+</h1>
 
----
+<p align="center">
+  <span style="color:#a855f7;">Data & BI Enthusiast</span> • 
+  <span style="color:#06b6d4;">ADS Student</span>
+</p>
 
 ### 👩‍💻 About Me
 - 📊 Passionate about **Data Analysis & Business Intelligence**
