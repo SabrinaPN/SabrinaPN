@@ -1,38 +1,6 @@
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="700"
-     height="120"
-     viewBox="0 0 700 120">
-
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <text x="50%" y="60%"
-        text-anchor="middle"
-        font-size="40"
-        font-family="monospace"
-        fill="#22c55e"
-        filter="url(#glow)">
-    Hello World, I'm Sabrina 👩‍💻
-    <animateTransform
-      attributeName="transform"
-      type="scale"
-      from="1"
-      to="1.05"
-      begin="0s"
-      dur="1.5s"
-      repeatCount="indefinite"/>
-  </text>
-
-</svg>
-</p>
+<h1 align="center" style="color:#a855f7;">
+  Hello World, I'm Sabrina! 💜
+</h1>
 
 ### 👩‍💻 About Me
 - 📊 Passionate about **Data Analysis & Business Intelligence**
